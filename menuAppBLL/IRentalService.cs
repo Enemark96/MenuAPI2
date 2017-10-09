@@ -17,5 +17,7 @@ namespace menuAppBLL
         RentalBO Update(RentalBO movie);
         //D
         RentalBO Delete(int Id);
+
+        
     }
 }
